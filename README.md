@@ -1,8 +1,8 @@
 ## Olá! Me chamo Lorrayne 🤗
 
-- 💻 Estou procurando trabalho na área de tecnologia
+- 💻 Trabalhando em KPMG Brasil como Assistente de Sistema da Informação
 - 🎩 Formada em Ánalise e Desenvolvimento de Sistemas
-- 📚 Estudando Programação Web no IOS (Instituto de Oportunidade Social)
+- 📚 Curso de Programação Web no IOS (Instituto de Oportunidade Social) - Concluido
 - 😄 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/Lorrayne-Araujo">
