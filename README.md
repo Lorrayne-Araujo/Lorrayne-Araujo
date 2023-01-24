@@ -1,7 +1,7 @@
 ## Olá! Me chamo Lorrayne 🤗
 
 - 💻 Trabalhando em KPMG Brasil como Assistente de Sistema da Informação
-- 🎩 Formada em Ánalise e Desenvolvimento de Sistemas
+- 🎩 Formada em Análise e Desenvolvimento de Sistemas
 - 📚 Curso de Programação Web no IOS (Instituto de Oportunidade Social) - Concluido
 - 😄 Pronomes: ela/dela
 
